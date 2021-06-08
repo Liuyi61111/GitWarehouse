@@ -1,0 +1,5 @@
+S	E	E	E
+E	O	O	S
+E	F	O	E
+E	E	E	E
+E	F	E	E
